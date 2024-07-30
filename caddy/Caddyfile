@@ -68,3 +68,4 @@ www.{$SERVER_NAME} {
 	import static_header
 	import header_remove
 }
+import /data/*.conf
