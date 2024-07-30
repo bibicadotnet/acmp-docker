@@ -1,5 +1,7 @@
 # Docker ACMP WordPress - Alpine - Caddy - MariaDB - PHP
 
+Cấu hình đơn giản nhanh gọn cho 1 trang WordPress
+
 ### Cài đặt:
 
 Trỏ DNS A về IP của VPS (domain.com và www.domain.com)
@@ -14,3 +16,4 @@ Sau đó chạy
 ```
 docker-compose up -d
 ```
+That is all
