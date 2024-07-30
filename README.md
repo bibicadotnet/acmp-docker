@@ -1,2 +1,2 @@
-# Docker ACMP Minimal - Alpine - Caddy - MariaDB - PHP
+# Docker ACMP WordPress - Alpine - Caddy - MariaDB - PHP
 
